@@ -8,10 +8,6 @@ header{
     border: 5px;
     border-radius: solid white;
 }
-img{
-    border: 2px;
-    border-radius: solid white;
-}
 table{
     color: white;
     margin-left: auto;
@@ -25,7 +21,7 @@ a{
     color: white;
 }
 .atm{
-    border: solid black;
+    border: solid white;
     border-radius: 10%;
     display: block;
     margin-left: 20px;
