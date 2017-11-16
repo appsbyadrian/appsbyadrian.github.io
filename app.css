@@ -8,6 +8,9 @@ header{
     border: 5px;
     border-radius: solid white;
 }
+img{
+    border: solid white;
+}
 table{
     color: white;
     margin-left: auto;
