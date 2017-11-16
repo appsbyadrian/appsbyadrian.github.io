@@ -9,7 +9,8 @@ header{
     border-radius: solid white;
 }
 img{
-    border: solid white;
+    border: 2px;
+    border-radius: solid white;
 }
 table{
     color: white;
