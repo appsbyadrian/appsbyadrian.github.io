@@ -42,21 +42,16 @@ ul{
 ol{
     color: white;
     margin-left: 100px;
-    margin-left: auto;
 }
 p{
     font-family: 'Alegreya', serif;
     color: white;
     max-width: 750px;
     padding: 0px 50px 0px 50px;
-    margin-left: auto;
-    margin-right: auto;
 }
 h2{
     font-family: 'Alegreya', serif;
     color: white;
-    margin-left: auto;
-    margin-right: auto;
 }
 h1{
     font-family: 'Alegreya', serif;
@@ -67,8 +62,8 @@ body{
     background: rgb(36, 106, 115);
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .button {
     display: inline-block;
