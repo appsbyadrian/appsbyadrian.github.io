@@ -60,8 +60,7 @@ h1{
 }
 body{
     background: rgb(36, 106, 115);
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-right: auto;
     margin-left: auto;
 }
 .button {
