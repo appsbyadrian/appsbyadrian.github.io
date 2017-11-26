@@ -60,8 +60,7 @@ h1{
 }
 body{
     background: rgb(36, 106, 115);
-    margin-right: auto;
-    margin-left: auto;
+    margin-top: 0;
 }
 .button {
     display: inline-block;
