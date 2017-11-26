@@ -42,6 +42,7 @@ ul{
 ol{
     color: white;
     margin-left: 100px;
+    margin-left: auto;
 }
 p{
     font-family: 'Alegreya', serif;
