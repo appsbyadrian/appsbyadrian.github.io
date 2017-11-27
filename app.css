@@ -11,10 +11,9 @@ header{
 }
 article{
     margin: 0 auto;
-    max-width: 850px;
+    max-width: 800px;
 }
 img{
-    text-align: center;
     border: solid white;
     border-radius: 10%;
 }
