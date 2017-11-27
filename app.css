@@ -44,6 +44,7 @@ ol{
 p{
     font-family: 'Alegreya', serif;
     color: white;
+    max-width: 1000px;
     padding: 0px 50px 0px 50px;
     margin-left: 300px;
 }
