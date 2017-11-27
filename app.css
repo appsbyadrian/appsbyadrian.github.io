@@ -9,6 +9,12 @@ header{
     border: 5px;
     border-radius: solid white;
 }
+img{
+    margin-left: auto;
+    margin-right: auto;
+    border: solid white;
+    border-radius: 10%;
+}
 table{
     color: white;
     margin-left: auto;
