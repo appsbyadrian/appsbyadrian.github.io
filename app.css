@@ -3,7 +3,9 @@ header{
     background: url(images/background.png);
     background-size: cover;
     padding: 20px 0px 0px 0px;
-    margin; 0 0 0 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
 }
 article{
     margin: 0 auto;
