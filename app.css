@@ -9,6 +9,10 @@ header{
     border: 5px;
     border-radius: solid white;
 }
+article{
+    margin: 0 auto;
+    max-width: 850px;
+}
 img{
     text-align: center;
     border: solid white;
@@ -41,21 +45,16 @@ ul{
 }
 ol{
     color: white;
-    margin-left: auto;
-    margin-right: auto;
 }
 p{
     font-family: 'Alegreya', serif;
     color: white;
     max-width: 850px;
     padding: 0px 50px 0px 50px;
-    margin-left: auto;
-    margin-right: auto;
 }
 h2{
     font-family: 'Alegreya', serif;
     color: white;
-    margin: 0 auto;
 }
 h1{
     font-family: 'Alegreya', serif;
