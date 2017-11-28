@@ -4,6 +4,9 @@ header{
     background-size: cover;
     padding: 20px 0px 0px 0px;
 }
+.pics{
+    text-align: center;
+}
 article{
     margin: 0 auto;
     max-width: 800px;
@@ -64,5 +67,4 @@ body{
     margin-top: 0;
     margin-left: 0;
     margin-right: 0;
-    text-align: center;
 }    
